@@ -13,7 +13,9 @@ Output: return value and description
 
 
 def main():
+    print()
     print("Hello world!")
+    print()
 
 
 main()
