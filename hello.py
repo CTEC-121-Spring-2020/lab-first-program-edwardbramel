@@ -1,8 +1,8 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
-<assignment/lab description
+<Edward Lamanna>
+<First Program Lab>
+<Hello World Program
 """
 
 """ IPO template
@@ -11,7 +11,9 @@ Process: description of what function does
 Output: return value and description
 """
 
-def main():
-    # code here
 
-main()    
+def main():
+    print("Hello world!")
+
+
+main()
